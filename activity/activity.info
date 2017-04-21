@@ -1,0 +1,8 @@
+[Activity]
+name = nijafable
+bundle_id = org.laptop.nijafable
+service_name = org.laptop.nijafable
+icon = activity-default
+class = nijafable_app.nijafableActivity
+activity_version = 1
+show_launcher = yes

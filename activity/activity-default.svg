@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+   	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+	<!ENTITY fill_color "#000000">
+	<!ENTITY stroke_color "#006c00">
+]>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="75"
+   height="75"
+   id="svg2802"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   sodipodi:docbase="/home/orospakr/olpc/sugar-jhbuild/build/share/icons/olpc/scalable/activities"
+   sodipodi:docname="activity-maker.svg"
+   version="1.0">
+  <defs
+     id="defs2804" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.7466667"
+     inkscape:cx="37.5"
+     inkscape:cy="37.5"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2802"
+     inkscape:window-width="1280"
+     inkscape:window-height="949"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     width="75px"
+     height="75px"
+     showgrid="true" />
+  <metadata
+     id="metadata2807">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:1">
+    <path
+       style="stroke-width:2.29726887;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 25.090218,31.961314 L 25.090218,35.834623 C 23.730223,36.139901 22.456828,36.676043 21.314483,37.400207 L 18.575075,34.660797 L 14.846645,38.387755 L 17.587529,41.128637 C 16.863491,42.270657 16.327337,43.543314 16.021943,44.902893 L 12.148635,44.902893 L 12.148635,50.174733 L 16.021943,50.174733 C 16.327283,51.534851 16.863241,52.808051 17.587529,53.950476 L 14.846645,56.691356 L 18.575075,60.418306 L 21.314483,57.678906 C 22.456792,58.403014 23.730281,58.939221 25.090218,59.244491 L 25.090218,63.116317 L 30.362058,63.116317 L 30.362058,59.244491 C 31.722259,58.939156 32.993836,58.401755 34.136318,57.677426 L 36.8772,60.418306 L 40.604153,56.691356 L 37.863268,53.950476 C 38.587644,52.807959 39.124989,51.53499 39.430331,50.174733 L 43.303642,50.174733 L 43.303642,44.902893 L 39.428854,44.902893 C 39.123447,43.543287 38.587339,42.270675 37.863268,41.128637 L 40.604153,38.387755 L 36.8772,34.660797 L 34.136318,37.401685 C 32.993799,36.677311 31.722315,36.139966 30.362058,35.834623 L 30.362058,31.961314 L 25.090218,31.961314 z M 27.726137,40.408672 C 31.66186,40.408672 34.856281,43.60309 34.856281,47.538812 C 34.856279,51.474533 31.66186,54.668954 27.726137,54.668954 C 23.790418,54.668954 20.595996,51.474533 20.595996,47.538812 C 20.595996,43.60309 23.790418,40.408672 27.726137,40.408672 z "
+       fill="&fill_color;"
+       stroke="&stroke_color;"
+       id="rect2811" />
+  </g>
+</svg>
